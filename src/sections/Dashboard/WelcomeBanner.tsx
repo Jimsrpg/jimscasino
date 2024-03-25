@@ -96,10 +96,11 @@ const Welcome = styled.div`
   }
 `
 
+export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to Jimbos casino 🧙‍♂️</h1>
+        <h1>Welcome to Jimbos Casino 🧙‍♂️</h1>
         <p>
           A fair, simple and decentralized casino on Solana.
         </p>
