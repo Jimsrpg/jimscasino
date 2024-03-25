@@ -106,13 +106,13 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
-          🚀 Add Liqudity
+        <button onClick={() => window.open('https://birdeye.so/token/CrkmpA8dx8UXFsRpXd3MD9MJ7r8qkk1U7SZeYHBeY7Px?chain=solana', '_blank')}>
+          🚀 Buy Jimbo
         </button>
-        <button onClick={() => window.open('https://github.com/gamba-labs/gamba', '_blank')}>
-          👨‍💻 Build your own
+        <button onClick={() => window.open('https://jimsrpg.com/', '_blank')}>
+          👨‍💻 Website
         </button>
-        <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
+        <button onClick={() => window.open('https://discord.com/invite/9k6qzZetfN', '_blank')}>
           💬 Discord
         </button>
       </Buttons>
